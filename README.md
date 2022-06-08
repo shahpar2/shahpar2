@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shahpar2
 - 👀 I’m interested in automation & security
-- 🌱 I’m currently learning terraform 
+- 🌱 I’m currently learning terraform
 - 💞️ I’m looking to collaborate on security projects
-- 📫 How to reach me ...
 
 <!---
 shahpar2/shahpar2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
